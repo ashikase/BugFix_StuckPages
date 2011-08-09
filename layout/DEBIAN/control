@@ -1,0 +1,14 @@
+Package: jp.ashikase.bugfix.stuckpages
+Name: Bug Fix: Stuck Pages
+Description: Prevent bug that resets icon layouts.
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depiction: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.bugfix.stuckpages
+Homepage: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.bugfix.stuckpages
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Lance Fetters (ashikase) <gaizin@gmail.com>
+dev: ashikase
+Section: Tweaks
+Depends: mobilesubstrate
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
